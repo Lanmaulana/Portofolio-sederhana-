@@ -32,11 +32,11 @@ portofolio-sederhana/
 
 ## 📌 Catatan
 
-- Musik latar dimuat dari folder `assets/music.mp3`
+- Musik latar dimuat dari folder `ms/music.mp3`
 - Pastikan suara browser tidak dalam mode mute
 - Musik bisa diganti dengan mengganti file `music.mp3`
 
 ## 👨‍💻 Dibuat oleh
 
 **Maulana Malik Ibrahim**  
-[Portofolio Online](https://portofolio-maulana-blush.vercel.app)
+[Portofolio Online](https://portofolio-maulana-rosy.vercel.app)
